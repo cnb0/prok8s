@@ -1,8 +1,8 @@
 - Running Containers Directly from Kubernetes with CRI-O 
 
-Install and configure the CRI-O container runtime.
-Pull images from a variety of OCI-compliant registries.
-Run, test and manage containerized applications using CRI-O.
+- Install and configure the CRI-O container runtime.
+- Pull images from a variety of OCI-compliant registries.
+- Run, test and manage containerized applications using CRI-O.
 
 
 ```
