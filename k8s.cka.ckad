@@ -1,3 +1,6 @@
+## Certified Kubernetes Administrator (CKA): Introduction
+
+
 1. Creating a Cluster with kubeadm
 2. Control Plane Components
 3. Accessing the Cluster
@@ -13,3 +16,163 @@
 13. Multi-container Pod Design Patterns
 14. Observability
 15. Upgrading the Cluster
+
+
+
+### Module 1: Getting Started
+
+        Lesson 1: Understanding Kubernetes
+            1.1 Understanding Kubernetes Core Functions
+            1.2 Understanding Kubernetes API Objects
+            1.3 Understanding Kubernetes Architecture
+
+
+        Lesson 2: Options for Using Kubernetes
+            2.1 Building a Kubernetes Cluster
+            2.2 Using Kubernetes in Public Cloud
+            2.3 Using Minikube
+
+        Lesson 3: Creating a Kubernetes Cluster
+            3.1 Understanding Cluster Node Requirements
+            3.2 Using kubeadm to Build a Cluster
+            3.3 Understanding Node Networking Requirements
+            3.4 Understanding kubectl Client Configuration
+            Lesson 3 Lab: Building a Kubernetes Cluster
+            Lesson 3 Lab Solution: Building a Kubernetes Cluster
+
+
+### Module 2: Managing Pods and Deployments
+
+        Lesson 4: Understanding API Access and Commands
+            4.1 Understanding the Kubernetes API
+            4.2 Understanding Core Kubernetes Objects
+            4.3 Using Options to Explore the API
+            4.4 Using kubectl to Manage API Objects
+            4.5 Using YAML Files to Define API Objects
+            4.6 Using curl to Work with API Objects
+            4.7 Using Other Commands
+
+            Lesson 4 Lab: Using curl to Explore the API
+            Lesson 4 Lab Solution: Using curl to Explore the API
+
+        Lesson 5: Running Pods by Using Deployments
+
+            5.1 Understanding Namespaces
+            5.2 Managing Pods and Deployments
+            5.3 Managing Deployment Scalability
+            5.4 Understanding Labels and Annotations
+            5.5 Managing Rolling Updates
+            5.6 Managing Deployment History
+            5.7 Using Init Containers
+            5.8 Managing StatefulSets
+            5.9 Using DaemonSets
+            Lesson 5 Lab: Managing Deployments
+            Lesson 5 Lab Solution: Managing Deployments
+
+        Lesson 6: Managing Storage
+
+            6.1 Understanding Kubernetes Storage Options
+            6.2 Configuring Pod Volumes
+            6.3 Configuring PV Storage
+            6.4 Configuring PVCs
+            6.5 Configuring Pod Storage with PV and PVC
+            6.6 Understanding ConfigMaps and Secrets
+            6.7 Managing ConfigMaps
+            6.8 Managing Secrets
+            Lesson 6 Lab: Configuring Storage
+            Lesson 6 Lab Solution: Configuring Storage
+                
+        Lesson 7: Managing Pod Networking
+                
+            7.1 Understanding Pod Networking
+            7.2 Understanding Pod-to-Pod Communication
+            7.3 Understanding Service Networking
+            7.4 Configuring Service Networking
+            7.5 Working with Ingress
+            Lesson 7 Lab: Managing Pod Networking
+            Lesson 7 Lab Solution: Managing Pod Networking
+
+
+### Module 3: Managing Kubernetes Clusters
+
+        Lesson 8: Managing API Object Specifications
+
+            8.1 Understanding API Extension
+            8.2 Adding Custom Resources
+            Lesson 8 Lab: Managing Custom Resources
+        
+        Lesson 9: Managing Scheduling
+            9.1 Managing Scheduler Settings
+            9.2 Managing Scheduler Policies
+            9.3 Using nodeSelector
+            9.4 Managing Node Affinity
+            9.5 Managing Pod Affinity
+            9.6 Managing Taints and Tolerations
+            9.7 Managing Resource Restrictions
+
+            Lesson 9 Lab: Managing Scheduling
+            Lesson 9 Lab Solution: Managing Scheduling
+
+
+        Lesson 10: Managing Security Settings
+            10.1 Understanding API Access
+            10.2 Understanding Authentication
+            10.3 Understanding Authorization Modes
+            10.4 Managing Security Contexts
+            10.5 Managing Kubernetes User Accounts
+            Lesson 10 Lab: Managing Security
+            Lesson 10 Lab Solution: Managing Security
+
+        Lesson 11: Managing Networking
+            11.1 Understanding Kubernetes Networking
+            11.2 Managing the CNI
+            11.3 Managing Network Plugins
+            11.4 Managing Kubernetes DNS
+            11.5 Managing Network Policies
+            Lesson 11 Lab: Managing Kubernetes Networking
+            Lesson 11 Lab Solution: Managing Kubernetes Networking
+
+
+        Lesson 12: Managing and Cluster Nodes
+            12.1 Adding a Node to the Cluster
+            12.2 Rebooting Cluster Nodes
+            12.3 Removing Cluster Nodes
+            12.4 Analyzing and Monitoring Node Status
+            12.5 Using kubectl drain and cordon
+            12.6 Configuring Static Pods
+            12.7 Managing the etcd Database
+            Lesson 12 Lab: Managing Cluster Nodes
+            Lesson 12 Lab Solution: Managing Cluster Nodes
+
+        Lesson 13: Logging, Monitoring, and Troubleshooting
+            13.1 Monitoring Kubernetes Resources
+            13.2 Using Logging
+            13.3 Understanding Pod States
+            13.4 Troubleshooting Resources
+            13.5 Monitoring Resource Logs
+            13.6 Troubleshooting a Specific Case
+            Lesson 13 Lab: Troubleshooting Resources
+            Lesson 13 Lab Solution: Troubleshooting Resources
+        
+        Module 4: Sample Exam
+            Lesson 14: Sample Exam Questions
+            14.1 Exam Tips
+            14.2 Exam Question Overview
+            14.3 Creating a Cluster
+            14.4 Creating a Pod
+            14.5 Creating a Pod with an init Container
+            14.6 Configuring Storage
+            14.7 Running a Pod Once
+            14.8 Managing Updates
+            14.9 Using Labels
+            14.10 Using ConfigMaps
+            14.11 Running Parallel Pods
+            14.12 Mark a Node as Unavailable
+            14.13 Using Maintenance Mode
+            14.14 Backing up the Etcd Database
+            14.15 Using DNS
+            14.16 Configuring a Node to Autostart a Pod
+            14.17 Finding the Pod with the Highest CPU Load
+        
+
+
