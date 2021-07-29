@@ -9,10 +9,31 @@
   schedulers, infrastructure, and more 
 - Study real-life use cases for extending Kubernetes with code examples
 
-. kubectl Plugins
-. API Flow Extensions
-. Extending the Kubernetes API
-. Scheduling Extensions
-. Infrastructure Extensions
-. Upcoming Extension Points
+          . kubectl Plugins
+          . API Flow Extensions
+          . Extending the Kubernetes API
+          . Scheduling Extensions
+          . Infrastructure Extensions
+          . Upcoming Extension Points
+
+
+Chapter 1 : Kubernetes Design Patterns
+            Kubernetes Design Patterns 
+            Strategies 
+
+Chapter 2 : Kubernetes Client Libraries
+            Accessing the Kubernetes API 
+            Official Client Libraries
+            Community Maintained Client Libraries
+
+Chapter 3 : Kubernetes Extensions
+            Kubernetes Extension Points
+            Extending Kubernetes Clients
+            Extending the Kubernetes API
+            Kubernetes Operator
+            Kubernetes Dynamic Admission Controller
+            Extending the Kubernetes Scheduler Basics
+            Extending the Kubernetes Scheduler Complex
+            Extending Kubernetes Infrastructure
+
 ```
