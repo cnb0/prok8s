@@ -4,9 +4,9 @@ Understanding Kubernetes Runtimes, Networking, Scheduling and Orchestration，
 
 Options for Installing, Deploying and Running Kubernetes
 
-      Local Server
-      Cloud Server
-      Hosted Solution
+            Local Server
+            Cloud Server
+            Hosted Solution
       
       
 Assessing the Organization's Needs
