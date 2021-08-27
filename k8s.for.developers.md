@@ -4,7 +4,8 @@
 [celery](https://github.com/kubernetes-for-developers/kfd-celery)
 
 
-- Setting Up Kubernetes For Development
+ - Setting Up Kubernetes For Development
+
         What you need for development
         Optional tools
         Getting a local cluster up and running
