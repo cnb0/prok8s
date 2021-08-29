@@ -17,11 +17,8 @@ Chapter 1: Kubernetes Architecture
             Pod security policies
             Kubernetes variations
             Minikube
-            K3s
-            OpenShift
             Kubernetes and cloud providers
             Kubernetes as a service
-            Kops
             Why worry about Kubernetes' security?
 
 
