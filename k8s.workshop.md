@@ -115,7 +115,8 @@
             Name
             Namespace
             Exercise 5.02: Creating a Pod in a Different Namespace by Specifying the Namespace in the CLI
-            Exercise 5.03: Creating a Pod in a Different Namespace by Specifying the Namespace in the Pod Configuration YAML file
+            Exercise 5.03: Creating a Pod in a Different Namespace by Specifying the Namespace in the Pod
+                           Configuration YAML file
             Exercise 5.04: Changing the Namespace for All Subsequent kubectl Commands
             Node
             Status
