@@ -1,19 +1,19 @@
 ### Cloud Native K8s
 
-– Setting Up Your Kubernetes Cluster
-– Running Application Containers on Kubernetes
-– Scaling and Deploying Your Application
-- Services and Ingress – Communicating with the Outside World
-– Kubernetes Application Configuration
-– Storage on Kubernetes
-– Pod Placement Controls
-– Observability on Kubernetes
-– Troubleshooting Kubernetes
-– Template Code Generation and CI/CD on Kubernetes
-– Kubernetes Security and Compliance
-– Extending Kubernetes with CRDs
-– Service Meshes and Serverless
-– Stateful Workloads on Kubernetes
+        – Setting Up Your Kubernetes Cluster
+        – Running Application Containers on Kubernetes
+        – Scaling and Deploying Your Application
+        - Services and Ingress – Communicating with the Outside World
+        – Kubernetes Application Configuration
+        – Storage on Kubernetes
+        – Pod Placement Controls
+        – Observability on Kubernetes
+        – Troubleshooting Kubernetes
+        – Template Code Generation and CI/CD on Kubernetes
+        – Kubernetes Security and Compliance
+        – Extending Kubernetes with CRDs
+        – Service Meshes and Serverless
+        – Stateful Workloads on Kubernetes
 
 
 
