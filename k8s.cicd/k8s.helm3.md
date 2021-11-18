@@ -1,25 +1,25 @@
 ### HELM
 
-A comprehensive introduction to automated application deployment on Kubernetes for beginners
-Effectively manage applications deployed in Kubernetes using Helm
-Learn to install, upgrade, share, and manage applications deployed in Kubernetes
-Get up and running with a package manager for Kubernetes
-Containerization is currently known to be one of the best ways to implement DevOps.
-While Docker introduced containers and changed the DevOps era, Google developed an extensive container orchestration system, Kubernetes, which is now considered the frontrunner in container orchestration.
-explore the efficiency of managing applications running on Kubernetes using Helm.
-Starting with a short introduction to Helm and how it can benefit the entire container environment, you'll then delve into the architectural aspects, in addition to learning about Helm charts and its use cases.
-how to write Helm charts in order to automate application deployment on Kubernetes.
-Focused on providing enterprise-ready patterns relating to Helm and automation,
-Best practices for application development, delivery, and lifecycle management with Helm.
-how to leverage Helm to develop an enterprise pattern for application delivery.
-Develop an enterprise automation strategy on Kubernetes using Helm
-Create easily consumable and configurable Helm charts
-Use Helm in orchestration tooling and Kubernetes operators
-Explore best practices for application delivery and life cycle management
-Leverage Helm in a secure and stable manner that is fit for your enterprise
-Discover the ins and outs of automation with Helm
+            A comprehensive introduction to automated application deployment on Kubernetes for beginners
+            Effectively manage applications deployed in Kubernetes using Helm
+            Learn to install, upgrade, share, and manage applications deployed in Kubernetes
+            Get up and running with a package manager for Kubernetes
+            Containerization is currently known to be one of the best ways to implement DevOps.
+            While Docker introduced containers and changed the DevOps era, Google developed an extensive container orchestration system, Kubernetes, which is now considered the frontrunner in container orchestration.
+            explore the efficiency of managing applications running on Kubernetes using Helm.
+            Starting with a short introduction to Helm and how it can benefit the entire container environment, you'll then delve into the architectural aspects, in addition to learning about Helm charts and its use cases.
+            how to write Helm charts in order to automate application deployment on Kubernetes.
+            Focused on providing enterprise-ready patterns relating to Helm and automation,
+            Best practices for application development, delivery, and lifecycle management with Helm.
+            how to leverage Helm to develop an enterprise pattern for application delivery.
+            Develop an enterprise automation strategy on Kubernetes using Helm
+            Create easily consumable and configurable Helm charts
+            Use Helm in orchestration tooling and Kubernetes operators
+            Explore best practices for application delivery and life cycle management
+            Leverage Helm in a secure and stable manner that is fit for your enterprise
+            Discover the ins and outs of automation with Helm
 
-Kubernetes developers or administrators who are interested in learning Helm to provide automation for application development on Kubernetes.
+          - learn Helm to provide automation for application development on Kubernetes.
 
 ### Section 1: Introduction and Setup
 
@@ -47,8 +47,7 @@ Chapter 1: Understanding Kubernetes and Helm
             The Kubernetes package manager
 
 Chapter 2: Preparing a Kubernetes and Helm Environment
-
-            Technical requirements
+                 
             Preparing a local Kubernetes environment with Minikube
             Installing Minikube
             Installing VirtualBox
@@ -68,7 +67,6 @@ Chapter 2: Preparing a Kubernetes and Helm Environment
 
 Chapter 3: Installing your First Helm Chart
 
-            Technical requirements
             Understanding the WordPress application
             Finding a WordPress chart
             Searching for WordPress charts from the command line
@@ -98,7 +96,7 @@ Chapter 3: Installing your First Helm Chart
 ### Section 2: Helm Chart Development
 
 Chapter 4: Understanding Helm Charts
-            Technical requirements
+                 
             Understanding the YAML format
             Defining key-value pairs
             Value types
@@ -122,7 +120,6 @@ Chapter 4: Understanding Helm Charts
 
 Chapter 5: Building Your First Helm Chart
 
-            Technical requirements
             Understanding the Guestbook application
             Setting up the environment
             Creating a Guestbook Helm chart
@@ -140,7 +137,7 @@ Chapter 5: Building Your First Helm Chart
             Adding your chart repository
 
 Chapter 6: Testing Helm Charts
-            Technical requirements
+                 
             Setting up your environment
             Verifying Helm templating
             Validating template generation locally with helm template
@@ -153,9 +150,10 @@ Chapter 6: Testing Helm Charts
             Installing the chart testing tools
             Cleaning up
 
-Section 3: Adanced Deployment Patterns
+### Section 3: Adanced Deployment Patterns
+
 Chapter 7: Automating Helm Processes Using CI/CD and GitOps
-            Technical requirements
+    
             Understanding CI/CD and GitOps
             CI/CD
             Taking CI/CD to the next level using GitOps
@@ -172,7 +170,7 @@ Chapter 7: Automating Helm Processes Using CI/CD and GitOps
             Running the pipeline
 
 Chapter 8: Using Helm with the Operator Framework
-            Technical requirements
+                 
             Understanding Kubernetes Operators
             Creating a Helm operator
             Setting up the environment
@@ -184,7 +182,7 @@ Chapter 8: Using Helm with the Operator Framework
             Cleaning up your Kubernetes environment
 
 Chapter 9: Helm Security Considerations
-            Technical requirements
+         
             Data provenance and integrity
             Creating a GPG keypair
             Verifying Helm downloads
