@@ -1,6 +1,5 @@
 ### Extending Kubernetes: Elevate Kubernetes with Extension Patterns, Operators, and Plugins
 
-```
 - Understand  the Kubernetes extension patterns and available extension points 
 - Be familiar with the philosophy behind Kubernetes extensions and how they should
   be integrated into the clusters
@@ -18,15 +17,18 @@
 
 
 Chapter 1 : Kubernetes Design Patterns
+
             Kubernetes Design Patterns 
             Strategies 
 
 Chapter 2 : Kubernetes Client Libraries
+
             Accessing the Kubernetes API 
             Official Client Libraries
             Community Maintained Client Libraries
 
 Chapter 3 : Kubernetes Extensions
+
             Kubernetes Extension Points
             Extending Kubernetes Clients
             Extending the Kubernetes API
