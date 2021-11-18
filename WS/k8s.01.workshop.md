@@ -1,6 +1,7 @@
-Week 1. Fast Track To Kubernetes
      
-### 1 Before You Begin
+### Week 1. Fast Track To Kubernetes
+
+1 Before You Begin
      
             1.1 Understanding Kubernetes
             1.2 Is this course for you?
