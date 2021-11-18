@@ -1,5 +1,6 @@
-```
+
 Chapter 1: Kubernetes Architecture
+
             The rise of Docker and the trend of microservices
             Kubernetes adoption status
             Kubernetes clusters
@@ -24,6 +25,7 @@ Chapter 1: Kubernetes Architecture
 
 
 Chapter 2: Kubernetes Networking
+
             Overview of the Kubernetes network model
             Port-sharing problems
             Kubernetes network model
@@ -85,9 +87,10 @@ Chapter 5: Configuring Kubernetes Security Boundaries
             Security boundaries in the network layer
             Network policies
 
-Section 2: Securing Kubernetes Deployments And Clusters
+### Section 2: Securing Kubernetes Deployments And Clusters
 
 Chapter 6: Securing Cluster Components
+
             Securing kube-apiserver
             Securing kubelet
             Securing etcd
@@ -173,6 +176,7 @@ Chapter 10: Real-Time Monitoring And Resource Management Of A Kubernetes Cluster
 
 
 Chapter 11: Defense In Depth
+
             Introducing Kubernetes auditing
             Kubernetes audit policy
             Configuring the audit backend
@@ -190,7 +194,7 @@ Chapter 11: Defense In Depth
             Using CRIU to collect data
             Using Sysdig and Sysdig Inspect
 
-Section 3: Learning From Mistakes And Pitfalls
+### Section 3: Learning From Mistakes And Pitfalls
 
 Chapter 12: Analyzing And Detecting Crypto-Mining Attacks
 
